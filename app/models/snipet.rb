@@ -1,0 +1,2 @@
+class Snipet < ApplicationRecord
+end
