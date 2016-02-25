@@ -5,6 +5,7 @@ gem 'mysql2'
 gem 'puma'
 gem 'redis', '~> 3.0'
 gem 'unicorn'
+gem 'rails_12factor'
 
 group :development, :test do
   gem 'byebug'
